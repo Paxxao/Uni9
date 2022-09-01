@@ -3,7 +3,7 @@
 **Creation of traffic light, alerts and simulate motor while.
   the light green is High**
 
- Program: IoT_at24082022
+ Program: IoT_at.1trafficligths
   Gabriel Paixão
  date: 08/24/2022
  version: 1.0
