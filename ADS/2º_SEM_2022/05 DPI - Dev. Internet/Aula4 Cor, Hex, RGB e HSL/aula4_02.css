@@ -1,0 +1,42 @@
+.padrao {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.cor0 {
+    background-color: #000000;
+    color: white;
+}
+
+.cor1 {
+    background-color: #880000;
+}
+
+.cor2 {
+    background-color: #ff0000;
+}
+
+.cor3 {
+    background-color: #ff8800;
+}
+.cor4 {
+    background-color: #ffff00;
+}
+.cor5 {
+    background-color: #00ff00;
+}
+
+.cor6 {
+    background-color: #0000ff;
+}
+
+.cor7 {
+    background-color: #ff00ff;
+}
+.cor8 {
+    background-color: #888888;
+}
+.cor9 {
+    background-color: #ffffff
+    ;  
+}
