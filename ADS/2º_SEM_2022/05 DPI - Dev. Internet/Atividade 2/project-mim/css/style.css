@@ -1,0 +1,232 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Cinzel', serif;
+}
+
+header {
+	background-color: hsla(0, 0%, 0%, 0.61);
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+
+
+}
+
+.center {
+	color: hsl(0, 0%, 100%);
+
+	padding: 0 2%;
+	display: flex;
+	margin: 0 auto;
+}
+
+.logo {
+	margin-left: 0;
+}
+
+.logo img {
+	max-height: 110px;
+	width: 110px;
+}
+
+.menu-container {
+	justify-content: space-between;
+}
+
+.menu-container a {
+	color: hsl(0, 0%, 100%);
+	display: inline-block;
+	line-height: 100px;
+	margin: 0 10px;
+	padding: 8px 10px;
+	text-decoration: none;
+	transition: 0.1s;
+}
+
+
+
+.menu-container a.active-menu {
+	background-color: hsl(45, 100%, 50%);
+}
+
+
+.menu-container a:hover {
+	color: hsla(0, 100%, 35%, 0.9);
+}
+
+
+
+.hero {
+	height: 100vh;
+	width: 100%;
+	background-image: url('../img/jpg/tribo.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.product-container img {
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+	width: 100%;
+	height: 30%;
+}
+
+.product-container {
+	background-color: hsla(0, 0%, 96%, 0.3);
+	width: 100%;
+	height: 1080px;
+}
+
+.product-container figure {
+	border: 3px hsl(0, 0%, 0%);
+	margin-top: 0;
+	text-align: center;
+	margin-left: 15px;
+	margin-right: 15px;
+	display: inline-block;
+}
+
+.product-container figure:hover img {
+	transform: translateY(-50px);
+}
+
+.product-container figure img {
+	max-width: 340px;
+	max-height: 500px;
+	padding: 20px;
+	display: inline-block;
+	transition: transform 0.5s;
+}
+
+.product-container figure:hover figcaption {
+
+	transform: translateY(-50px);
+	opacity: 1;
+	transition: transform 0.8s opacity 1s;
+}
+
+.product-container figure figcaption {
+	overflow: hidden;
+	position: relative;
+	top: auto;
+	bottom: 0;
+	left: 0;
+	width: 440px;
+	height: 50px;
+	text-align: center;
+	padding: 15px;
+	background-color: hsla(0, 0%, 0%, 0.801);
+	color: hsl(0, 0%, 100%);
+	opacity: 0;
+	transition: transform 0.8s opacity 1s;
+}
+
+#Aboutus {
+	text-align: center;
+}
+
+#Aboutus h2,
+h3 {
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	color: white;
+}
+
+#Aboutus p {
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: justify;
+	color: white;
+}
+
+#logo img {
+
+	height: 300px;
+	width: 300px;
+
+}
+
+#brazao img {
+
+	height: 180px;
+	width: 200px;
+
+}
+
+#maua figure {
+	display: inline-block;
+	margin-left: 0;
+}
+
+#maua img {
+	height: 150px;
+	width: 300px;
+}
+
+
+footer {
+	text-decoration: none;
+	height: 10%;
+	background: #000;
+	text-align: center;
+	padding-bottom: 0px;
+	color: #fff;
+	font-size: 13px;
+	font-weight: 700;
+}
+
+footer .fmenu,
+.razao-social {
+	margin-left: 20px;
+}
+
+footer .icons {
+	float: right;
+	margin-bottom: 10px;
+}
+
+footer .icons a img {
+	margin-right: 25px;
+	margin-top: 50px;
+	height: 50px;
+	width: 50px;
+}
+
+
+footer .razao-social {
+	margin-top: 20px;
+	float: left;
+	text-align: left;
+	line-height: 1.3;
+}
+
+footer .fmenu {
+	display: inline-block;
+	width: 100%;
+	margin-top: 20px;
+	text-align: left;
+	font-weight: normal;
+	font-size: 14px;
+}
+
+
+footer .fmenu a {
+	text-decoration: none;
+	display: block;
+	line-height: 1;
+	color: #fff;
+}
+
+
+
+footer .copyright a {
+	color: #fff;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
