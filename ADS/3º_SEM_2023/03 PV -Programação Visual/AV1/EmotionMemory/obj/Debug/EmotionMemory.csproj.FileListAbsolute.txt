@@ -1,0 +1,16 @@
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\bin\Debug\EmotionMemory.exe.config
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\bin\Debug\EmotionMemory.exe
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\bin\Debug\EmotionMemory.pdb
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.csproj.AssemblyReference.cache
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.csproj.SuggestedBindingRedirects.cache
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.Form1.resources
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.Properties.Resources.resources
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.csproj.GenerateResource.cache
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.csproj.CoreCompileInputs.cache
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.exe
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.pdb
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Paxxao_\ProjectsDev\Jogo da Memoria\EmotionMemory\obj\Debug\EmotionMemory.csproj.CopyComplete
