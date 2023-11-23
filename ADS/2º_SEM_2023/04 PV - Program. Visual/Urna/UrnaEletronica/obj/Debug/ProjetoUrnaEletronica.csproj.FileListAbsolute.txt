@@ -1,0 +1,20 @@
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\obj\Debug\ProjetoUrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\obj\Debug\ProjetoUrnaEletronica.Form1.resources
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\obj\Debug\ProjetoUrnaEletronica.Properties.Resources.resources
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\obj\Debug\ProjetoUrnaEletronica.csproj.GenerateResource.cache
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\obj\Debug\ProjetoUrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\bin\Debug\ProjetoUrnaEletronica.exe.config
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\bin\Debug\ProjetoUrnaEletronica.exe
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\bin\Debug\ProjetoUrnaEletronica.pdb
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\obj\Debug\ProjetoUrnaEletronica.exe
+C:\Users\kikin\OneDrive\Área de Trabalho\Programação\ProjetoUrna\ProjetoUrnaEletronica\obj\Debug\ProjetoUrnaEletronica.pdb
+C:\Users\Aluno\Documents\UrnaEletronica\bin\Debug\ProjetoUrnaEletronica.exe.config
+C:\Users\Aluno\Documents\UrnaEletronica\bin\Debug\ProjetoUrnaEletronica.exe
+C:\Users\Aluno\Documents\UrnaEletronica\bin\Debug\ProjetoUrnaEletronica.pdb
+C:\Users\Aluno\Documents\UrnaEletronica\obj\Debug\ProjetoUrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\UrnaEletronica\obj\Debug\ProjetoUrnaEletronica.Form1.resources
+C:\Users\Aluno\Documents\UrnaEletronica\obj\Debug\ProjetoUrnaEletronica.Properties.Resources.resources
+C:\Users\Aluno\Documents\UrnaEletronica\obj\Debug\ProjetoUrnaEletronica.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\UrnaEletronica\obj\Debug\ProjetoUrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\UrnaEletronica\obj\Debug\ProjetoUrnaEletronica.exe
+C:\Users\Aluno\Documents\UrnaEletronica\obj\Debug\ProjetoUrnaEletronica.pdb
